@@ -1,0 +1,5 @@
+# golangci-lint-plugin.yml
+name: errstyle
+description: "Error style analyzer"
+version: v0.1.0
+binary: false
