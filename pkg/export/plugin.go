@@ -1,4 +1,4 @@
-package main
+package export
 
 import (
     "github.com/yodaskilledme/errorstyle-analyzer/pkg/analyzer"
